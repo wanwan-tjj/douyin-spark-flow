@@ -1,8 +1,8 @@
 {
   "multiTask": true,
-  "taskCount": 5,
+  "taskCount": 10,
   "proxyAddress": "",
-  "messageTemplate": "[盖瑞]今日火花[加一]\n我的朋友，新年新气象！\n—— [右边] 每日一言 [左边] ——\n[API]",
+  "messageTemplate": "今天真的不想努力了\uD83D\uDE34 但你回我一个字，我就当今天超额完成了\uD83D\uDE29。",
   "hitokotoTypes": [
     "文学",
     "影视",
